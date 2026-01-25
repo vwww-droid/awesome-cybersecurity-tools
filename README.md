@@ -87,11 +87,14 @@ Use your browser’s find (Ctrl+F or Cmd+F) or jump via the table:
 - [Amass](https://github.com/owasp-amass/amass) [F] — Subdomain enum via multiple sources and graphing.
 - [Subfinder](https://github.com/projectdiscovery/subfinder) [F] — Passive subdomain discovery.
 - [Assetfinder](https://github.com/tomnomnom/assetfinder) [F] — Find subdomains via public sources.
+
 - [httpx](https://github.com/projectdiscovery/httpx) [F] — Fast HTTP probing with metadata.
 - [Nuclei](https://github.com/projectdiscovery/nuclei) [F] — Template-based vuln checks; pair with `httpx`.
 - [Naabu](https://github.com/projectdiscovery/naabu) [F] — Fast port scanner (SYN).
 - [dnsx](https://github.com/projectdiscovery/dnsx) [F] — DNS toolkit (resolve/brute/certs).
 - [Aquatone](https://github.com/michenriksen/aquatone) [F] — Site screenshots by domain.
+- [GoHunt](https://github.com/atlasilim/Gohunt) [F] — All-in-one reconnaissance and asset discovery framework written in Go (subdomain discovery, port scanning, CVE lookup, tech detection).
+
 - [gowitness](https://github.com/sensepost/gowitness) [F] — Fast headless browser screenshots.
 - [theHarvester](https://github.com/laramies/theHarvester) [F] — Emails, names, subdomains from search engines.
 - [Shodan CLI](https://cli.shodan.io) [F/C] — Shodan search from terminal.
