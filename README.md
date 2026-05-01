@@ -78,6 +78,7 @@ Use your browser’s find (Ctrl+F or Cmd+F) or jump via the table:
 - [Hashcat](https://hashcat.net/hashcat) [F] [Linux macOS Windows] — GPU/CPU password cracking.
 - [John the Ripper Jumbo](https://www.openwall.com/john/) [F] [Linux macOS Windows] — Password/cracking suite.
 
+- [Mira](https://github.com/vwww-droid/Mira) [F] — Runtime protection analysis platform for third-party Android and iOS apps, enabling AI to use host-app-side shell, Java, Native, and Frida capabilities for environment risk detection and hardening validation.
 [Back to Top](#navigation)
 
 ---
